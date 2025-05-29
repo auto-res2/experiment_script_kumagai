@@ -1,6 +1,6 @@
 {
   "base_queries": [
-    "stock market prediction"
+    "time series"
   ],
   "add_queries": [
     "vision"
