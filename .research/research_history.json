@@ -1,6 +1,6 @@
 {
   "base_queries": [
-    "stock market prediction"
+    "diffusion model"
   ],
   "add_queries": [
     "vision"
